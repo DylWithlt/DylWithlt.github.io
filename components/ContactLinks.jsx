@@ -1,7 +1,4 @@
-export default function ContactLinks({
-  email = "you@example.com",
-  links = [],
-}) {
+export default function ContactLinks({ links = [] }) {
   return (
     <footer id="contact" className="py-12 bg-gray-900 text-white">
       <div className="max-w-4xl mx-auto px-6">

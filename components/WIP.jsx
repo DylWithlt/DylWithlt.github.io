@@ -1,6 +1,6 @@
 export default function WIP({}) {
   return (
-    <section id="heading" className="py-16">
+    <section id="wip" className="py-16">
       <div className="max-w-5xl mx-auto px-6">
         <h2 className="text-2xl font-bold">Work In Progress~</h2>
         <p className="mt-4 indent-0">

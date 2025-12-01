@@ -13,7 +13,7 @@ export default function Hero({
           <p className="mt-3 text-xl text-gray-600">{role}</p>
           {tagline && <p className="mt-4 text-lg text-gray-500">{tagline}</p>}
           <div className="mt-6 flex gap-3">
-            <a href="#work" className="px-4 py-2 rounded bg-black text-white">
+            <a href="#wip" className="px-4 py-2 rounded bg-black text-white">
               View work
             </a>
             <a href="#contact" className="px-4 py-2 rounded border">
