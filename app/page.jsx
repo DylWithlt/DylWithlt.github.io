@@ -91,8 +91,8 @@ export default function Page() {
       <Employers items={employers} />
       <Packages plans={plans} />
       <AboutMe description={desc} />
-      <ContactLinks links={contactLinks} />
       <WIP />
+      <ContactLinks links={contactLinks} />
     </>
   );
 }
